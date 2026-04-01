@@ -10,5 +10,5 @@ Disallow: /
 User-agent: GPTBot
 Allow: /
 
-User-agent: *
-Disallow: /functions/
+# เพิ่มบรรทัดนี้เพื่อให้แมงมุมหาทางเดินได้ง่ายขึ้นเจ้าค่ะ
+Sitemap: https://yourdomain.com/sitemap.xml
